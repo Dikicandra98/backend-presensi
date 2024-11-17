@@ -1,0 +1,11 @@
+# Ignore environment variables
+.env
+
+# Ignore Firebase service account key
+serviceAccountKey.json
+
+# Ignore node modules
+node_modules/
+
+# Ignore logs
+*.log

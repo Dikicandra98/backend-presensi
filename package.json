@@ -1,0 +1,20 @@
+{
+  "name": "server_backend_node_js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "firebase-admin": "^13.0.0",
+    "moment-timezone": "^0.5.46",
+    "node-cron": "^3.0.3"
+  }
+}
